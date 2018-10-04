@@ -1,0 +1,9 @@
+log_path=/home/moying12138/client_project/log/pihealthd.log
+short_port=2222
+long_port=3333
+master_ip=192.168.1.214
+warn_port=4567
+warn_adress=192.168.1.214
+run_path=/home/moying12138/client_project/client/
+send_log_path=/home/moying12138/client_project/client/log
+backup_path=/home/moying12138/client_project/client/backup/
