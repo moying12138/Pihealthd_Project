@@ -1,0 +1,4 @@
+log_path=/var/log/pihealthd.log
+warn_path=/var/log/warn.log
+long_port=3333
+short_port=2222
